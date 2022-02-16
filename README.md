@@ -1,7 +1,7 @@
 # Lab-SQL-
  SQL assignments during my course (CS 457L _Data Technologies Lab) at Northwestern Polytechnic university.
  <details>
-<summary>Below is the document with detailed instruction</summary>
+<summary> SQL Lab Assignments  </summary>
 <a href="https://github.com/Maryam-Taherzadeh/Lab-SQL-/tree/main/Assignments"> document</a>
 </details>
  
